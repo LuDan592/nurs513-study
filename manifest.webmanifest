@@ -1,7 +1,7 @@
 {
-  "name": "NURS513 互动复习",
-  "short_name": "513复习",
-  "lang": "zh-CN",
+  "name": "Luna's 513 review",
+  "short_name": "513 review",
+  "lang": "en",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
